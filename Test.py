@@ -4,3 +4,4 @@ class Test():
 
 dang = Test()
 dang.flip("yum")
+print "I wants be added tos thisz repozitorie"
